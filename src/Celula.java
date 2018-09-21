@@ -10,6 +10,7 @@ public class Celula {
 	
 	public Celula(Object elemento){
 		this.elemento = elemento;
+		// comentario
 	}
 	
 	public void setProxima(Celula proxima){
